@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejemplo1ActividadXActividadYCilo4G45</string>
+    <string name="eti_titulo_x">ACTIVIDAD X</string>
+    <string name="eti_titulo_y">ACTIVIDAD Y</string>
+    <string name="pista_campo_dato">Digita lo que quieras:</string>
+    <string name="btn_aceptar">ACEPTAR</string>
+</resources>
